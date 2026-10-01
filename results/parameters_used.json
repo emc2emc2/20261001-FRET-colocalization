@@ -1,0 +1,16 @@
+{
+  "leakage": 0.08571744188099296,
+  "leakage_estimated": true,
+  "gamma": 0.6466941959882243,
+  "gamma_estimated": true,
+  "gamma_ci": [
+    0.5952610820106168,
+    0.7352425939561854
+  ],
+  "n_binding_events_for_gamma": 6,
+  "background_fret": -0.012393852233176279,
+  "bound_fret_threshold": 0.08760614776682372,
+  "frame_time_s": 1.0,
+  "n_traces": 5,
+  "n_traces_accepted": 5
+}
